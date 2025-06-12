@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋
+
+Senior Full-stack Engineer with 13+ years of experience delivering secure, scalable web applications across startups, dev agencies, and global tech environments like Spotify. Hands-on expert in C#/.NET Core, Java/Spring Boot, and modern JavaScript frameworks (React, Angular), with deep experience in building microservices and deploying cloud-native solutions in Azure and AWS.
+Skilled in driving end-to-end delivery — from system architecture to CI/CD pipelines — and translating complex tech into business value. Known for leading cross-functional teams, mentoring junior devs, and championing clean, high-performance code in fast-paced Agile environments.
+
 
 <!--
 **iraldiri/iraldiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

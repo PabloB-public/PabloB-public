@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mhaley-jsfun.mhaley-jsfun">
+
 ## Hi 👋
 
 Senior Full-stack Engineer with 13+ years of experience delivering secure, scalable web applications across startups, dev agencies, and global tech environments like **Spotify**. Hands-on expert in **C#/.NET Core, Java/Spring Boot**, and modern JavaScript frameworks (**React, Angular**), with deep experience in building microservices and deploying cloud-native solutions in **Azure** and **AWS**.

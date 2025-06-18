@@ -1,24 +1,17 @@
 name: GitHub-Profile-3D-Contrib
 on:
-  schedule: [{cron: "0 0 * * 0"}]          # weekly, Sunday 00:00 UTC
+  schedule:
+    - cron: "0 0 * * 0"          # weekly, adjust as you like
   workflow_dispatch:
 
 permissions:
-  contents: write                          # allow the job to commit the SVG
+  contents: write                # the action will commit the SVG itself
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & push SVG
-        run: |
-          git config user.name  github-actions
-          git config user.email github-actions@github.com
-          git add profile-3d-contrib.svg
-          git commit -m "chore: update 3-D contribution graph" || echo "Nothing to commit"
-          git push
+          USERNAME: ArnoldW-dev      # ← your handle

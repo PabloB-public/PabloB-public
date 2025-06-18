@@ -26,11 +26,7 @@ Skilled in driving end-to-end delivery — from system architecture to CI/CD pip
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib.svg" alt="3-D contribution graph"/>
-</p>
-
-<p align="center">
-  <img src="./metrics.svg" alt="detailed metrics"/>
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3-D contribution graph"/>
 </p>
 
 <h3 align="center">Highlighted projects</h3>

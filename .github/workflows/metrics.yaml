@@ -1,0 +1,14 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 3 * * *"}]     # rebuild every night at 03:00 UTC
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, repositories
+          plugin_lines: yes

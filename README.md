@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=myprofile987123.123987">
-
 <!-- ## Hi 👋 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&multiline=true&width=435&height=60&lines=Hey!+I'm+Arnold+Wesley;Senior+Full-stack+Engineer" alt="typing intro" />
@@ -12,12 +10,12 @@ Skilled in driving end-to-end delivery — from system architecture to CI/CD pip
 
 <!-- prettier-ignore-start -->
 <p align="center">
-  <a href="https://github.com/ArnoldW-dev"><img src="https://komarev.com/ghpvc/?username=ArnoldW-dev&style=flat" alt="profile views"></a>
+  <a href="https://github.com/ArnoldW-dev"><img src="https://visitor-badge.laobi.icu/badge?page_id=myprofile987123.123987"></a>
   <a href="https://github.com/ArnoldW-dev?tab=followers"><img src="https://img.shields.io/github/followers/ArnoldW-dev?label=Followers&style=flat" alt="followers"></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnoldW-dev&show_icons=true&count_private=true" alt="stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=ArnoldW-dev&show_icons=true&count_private=true" alt="stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldW-dev&layout=compact"        alt="top languages" />
 </p>
 

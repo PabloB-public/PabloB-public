@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 3 * * *"}]     # rebuild every night at 03:00 UTC
+  schedule: [{cron: "0 3 * * *"}]          # nightly, 03:00 UTC
   workflow_dispatch:
 jobs:
   build:

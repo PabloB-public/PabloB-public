@@ -2,7 +2,7 @@
 
 <!-- ## Hi 👋 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&multiline=true&width=435&height=60&lines=Hey!+I'm+Arnold+Wesley;Senior+Full-stack+Engineer+with+13+years+experience" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&multiline=true&width=435&height=60&lines=Hey!+I'm+Arnold+Wesley;Senior+Full-stack+Engineer" alt="typing intro" />
 </p>
 
 Senior Full-stack Engineer with 13+ years of experience delivering secure, scalable web applications across startups, dev agencies, and global tech environments like **Spotify**. Hands-on expert in **C#/.NET Core, Java/Spring Boot**, and modern JavaScript frameworks (**React, Angular**), with deep experience in building microservices and deploying cloud-native solutions in **Azure** and **AWS**.

@@ -6,6 +6,12 @@ Senior Full-stack Engineer with 13+ years of experience delivering secure, scala
 
 Skilled in driving end-to-end delivery — from system architecture to CI/CD pipelines — and translating complex tech into business value. Known for leading cross-functional teams, mentoring junior devs, and championing clean, high-performance code in fast-paced Agile environments.
 
+<!-- overall stats -->
+![Aronld’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnoldW-dev&show_icons=true&count_private=true&theme=tokyonight)
+<!-- top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldW-dev&layout=compact)
+
+
 
 <!--
 **iraldiri/iraldiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

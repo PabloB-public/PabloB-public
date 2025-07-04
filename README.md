@@ -8,9 +8,10 @@
   <a href="https://github.com/ArnoldW-dev?tab=followers"><img src="https://img.shields.io/github/followers/ArnoldW-dev?label=Followers&style=flat" alt="followers"></a>
 </p>
 
-Senior Full-stack Engineer with 13+ years of experience delivering secure, scalable web applications across startups, dev agencies, and global tech environments like **Spotify**. Hands-on expert in **C#/.NET Core, Java/Spring Boot**, and modern JavaScript frameworks (**React, Angular**), with deep experience in building microservices and deploying cloud-native solutions in **Azure** and **AWS**.
+Senior Full-stack Engineer with 13+ years of experience delivering secure, scalable web applications across startups, development agencies, and global tech environments like AWS. Proven expertise in C#/.NET Core, Java/Spring Boot, and JavaScript frameworks (React, Angular). 
 
-Skilled in driving end-to-end delivery — from system architecture to CI/CD pipelines — and translating complex tech into business value. Known for leading cross-functional teams, mentoring junior devs, and championing clean, high-performance code in fast-paced Agile environments.
+Successfully led architectural improvements at AWS scaling pipelines from 5K to 50K events/sec and delivered enterprise-grade solutions meeting strict compliance (HIPAA, SOC 2). Adept at translating technical complexity into business results, mentoring teams, and consistently delivering high-performance, maintainable code.
+
 
 <!-- Languages & Core Frameworks -->
 <p align="center">

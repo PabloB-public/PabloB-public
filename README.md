@@ -1,14 +1,14 @@
 <!-- ## Hi 👋 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&multiline=true&width=435&height=60&lines=Hey!+I'm+Arnold+Wesley;Senior+Full-stack+Engineer" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&multiline=true&width=435&height=60&lines=Hey!+I'm+Pablo+Bustillos;Senior+Full-stack+Engineer" alt="typing intro" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ArnoldW-dev"><a href="https://github.com/ArnoldW-dev"><img src="https://komarev.com/ghpvc/?username=ArnoldW-dev&style=flat" alt="profile views"></a></a>
-  <a href="https://github.com/ArnoldW-dev?tab=followers"><img src="https://img.shields.io/github/followers/ArnoldW-dev?label=Followers&style=flat" alt="followers"></a>
+  <a href="https://github.com/PabloB-public"><a href="https://github.com/PabloB-public"><img src="https://komarev.com/ghpvc/?username=PabloB-public&style=flat" alt="profile views"></a></a>
+  <a href="https://github.com/PabloB-public?tab=followers"><img src="https://img.shields.io/github/followers/PabloB-public?label=Followers&style=flat" alt="followers"></a>
 </p>
 
-Senior Full-stack Engineer with 13+ years of experience delivering secure, scalable web applications across startups, development agencies, and global tech environments like AWS. Proven expertise in C#/.NET Core, Java/Spring Boot, and JavaScript frameworks (React, Angular). 
+Senior Full-stack Engineer with 6+ years of experience delivering secure, scalable web applications across startups, development agencies, and global tech environments like AWS. Proven expertise in C#/.NET Core, Java/Spring Boot, and JavaScript frameworks (React, Angular). 
 
 Successfully led architectural improvements at AWS scaling pipelines from 5K to 50K events/sec and delivered enterprise-grade solutions meeting strict compliance (HIPAA, SOC 2). Adept at translating technical complexity into business results, mentoring teams, and consistently delivering high-performance, maintainable code.
 
@@ -121,16 +121,16 @@ Successfully led architectural improvements at AWS scaling pipelines from 5K to 
 
 <p align="center">
   <a href="https://github.com/ArnoldW-dev/angular-httpclient-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnoldW-dev&repo=angular-httpclient-app" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloB-public&repo=angular-httpclient-app" />
   </a>
   <a href="https://github.com/ArnoldW-dev/beefy-onboard-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnoldW-dev&repo=beefy-onboard-api" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloB-public&repo=beefy-onboard-api" />
   </a>
 </p>
 
 <p align="center">
-  Reach me at <a href="mailto:arnoldwesley.dev@gmail.com">arnoldwesley.dev@gmail.com</a> ·
-  <a href="https://linkedin.com/in/YOUR_PROFILE">LinkedIn</a>
+  Reach me at <a href="mailto:arnoldwesley.dev@gmail.com">pablobustillo875@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/pablo-b-040673251/">LinkedIn</a>
 </p>
 <!-- prettier-ignore-end -->
 

@@ -104,12 +104,12 @@ Successfully led architectural improvements at AWS scaling pipelines from 5K to 
 <!-- prettier-ignore-start -->
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=ArnoldW-dev&show_icons=true&count_private=true" alt="stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldW-dev&layout=compact"        alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloB-public&layout=compact"        alt="top languages" />
 </p>
 
 <p align="center">
-  <a href="https://streak-stats.vercel.app/?user=ArnoldW-dev">
-    <img src="https://streak-stats.vercel.app/?user=ArnoldW-dev" alt="contribution streak"/>
+  <a href="https://streak-stats.vercel.app/?user=PabloB-public">
+    <img src="https://streak-stats.vercel.app/?user=PabloB-public" alt="contribution streak"/>
   </a>
 </p>
 
@@ -129,7 +129,7 @@ Successfully led architectural improvements at AWS scaling pipelines from 5K to 
 </p>
 
 <p align="center">
-  Reach me at <a href="mailto:arnoldwesley.dev@gmail.com">pablobustillo875@gmail.com</a> ·
+  Reach me at <a href="mailto:pablobustillo875@gmail.com">pablobustillo875@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/pablo-b-040673251/">LinkedIn</a>
 </p>
 <!-- prettier-ignore-end -->

@@ -1,6 +1,6 @@
 <!-- ## Hi 👋 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&multiline=true&width=435&height=60&lines=Hey!+I'm+Pablo+Bustillos;Senior+Full-stack+Engineer" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&multiline=true&width=435&height=60&lines=Hey!+I'm+Paul+Bryant;Senior+Full-stack+Engineer" alt="typing intro" />
 </p>
 
 <p align="center">

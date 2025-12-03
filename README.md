@@ -8,9 +8,7 @@
   <a href="https://github.com/PabloB-public?tab=followers"><img src="https://img.shields.io/github/followers/PabloB-public?label=Followers&style=flat" alt="followers"></a>
 </p>
 
-Senior Full-stack Engineer with 6+ years of experience delivering secure, scalable web applications across startups, development agencies, and global tech environments like AWS. Proven expertise in C#/.NET Core, Java/Spring Boot, and JavaScript frameworks (React, Angular). 
-
-Successfully led architectural improvements at AWS scaling pipelines from 5K to 50K events/sec and delivered enterprise-grade solutions meeting strict compliance (HIPAA, SOC 2). Adept at translating technical complexity into business results, mentoring teams, and consistently delivering high-performance, maintainable code.
+Senior full-stack engineer who ships reliable, scalable products end to end. Backend across C#/.NET, Node.js, Python, and PHP; frontend with React, Angular, and Vue. Builds and optimizes e-commerce on Shopify and WordPress. Cares about clean APIs, performance, and secure architecture. Automates CI/CD, testing, and infrastructure to keep releases fast and predictable. Collaborates tightly with product/design, mentors teams, and turns rough ideas into production-ready software.
 
 
 <!-- Languages & Core Frameworks -->

@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&multiline=true&width=435&height=60&lines=Hey!+I'm+Paul+Bryant;Senior+Full-stack+Engineer" alt="typing intro" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/PaulB-public"><a href="https://github.com/PaulB-public"><img src="https://komarev.com/ghpvc/?username=PaulB-public&style=flat" alt="profile views"></a></a>
-  <a href="https://github.com/PaulB-public?tab=followers"><img src="https://img.shields.io/github/followers/PaulB-public?label=Followers&style=flat" alt="followers"></a>
-</p>
-
 Senior full-stack engineer who ships reliable, scalable products end to end. Backend across C#/.NET, Node.js, Python, and PHP; frontend with React, Angular, and Vue. Builds and optimizes e-commerce on Shopify and WordPress. Cares about clean APIs, performance, and secure architecture. Automates CI/CD, testing, and infrastructure to keep releases fast and predictable. Collaborates tightly with product/design, mentors teams, and turns rough ideas into production-ready software.
 
 
@@ -99,11 +94,6 @@ Senior full-stack engineer who ships reliable, scalable products end to end. Bac
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-<!-- prettier-ignore-start -->
-<p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=ArnoldW-dev&show_icons=true&count_private=true" alt="stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulB-public&layout=compact"        alt="top languages" />
-</p>
 
 <p align="center">
   <a href="https://streak-stats.vercel.app/?user=PaulB-public">
@@ -115,11 +105,6 @@ Senior full-stack engineer who ships reliable, scalable products end to end. Bac
   <img src="profile-3d-contrib/profile-green.svg" alt="3-D contribution graph"/>
 </p>
 
-<p align="center">
-  Reach me at <a href="mailto:pablobustillo875@gmail.com">pablobustillo875@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/paul-b-040673251/">LinkedIn</a>
-</p>
-<!-- prettier-ignore-end -->
 
 
 
